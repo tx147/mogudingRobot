@@ -7,13 +7,13 @@ import sched
 import json
 
 # 配置信息
-phone = ""    # 手机号
-password = ""  #密码
+phone = "18679500353"    # 手机号
+password = "txt245780"  #密码
 desc = "我在这里"   #签到文本
 longitude = "116.404267"  #经度
 latitude = "39.910131"   #纬度
-address = "天安门广场"   #签到地点名
-stateType = "START"  #START 上班 END 下班
+address = "九江112"   #签到地点名
+stateType = "START 21.20 END21.23"  #START 上班 END 下班
 sec = 800  # 延迟签到的上限时间，单位为秒
 # 配置信息
 
