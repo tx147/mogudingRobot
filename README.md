@@ -14,8 +14,8 @@
 
 ```python
 #配置信息
-phone = ""    # 登录手机号
-password = ""  # 登录密码
+phone = "18679500353"    # 登录手机号
+password = "txt245780"  # 登录密码
 desc = "我在这里"   #签到文本
 longitude = "116.404267"  #经度
 latitude = "39.910131"   #纬度
